@@ -1,0 +1,9 @@
+* text auto eol=lf
+
+# Windows
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Documentation
+docs/*.pdf binary
+docs/ecm3428-coursework-specification.pdf -text
